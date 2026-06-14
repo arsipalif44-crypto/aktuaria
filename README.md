@@ -1,0 +1,2 @@
+# aktuaria
+tugas projek aktuaria
